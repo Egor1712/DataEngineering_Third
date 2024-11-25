@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e68324c-a4c6-466d-b028-f12593e43b5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DataEngineering_Third.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58/2/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_data_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourth_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fifth_task_news_from_list_task_all_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fifth_task_news_from_list_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fifth_task_news_from_list_task_rubric_frequency.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fifth_task_news_from_list_task_sorted_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/first_task_all_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/first_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/first_task_city_frequency.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/first_task_sorted_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fist_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fourth_task_all_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fourth_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fourth_task_size_frequency.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fourth_task_sorted_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/second_task_all_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/second_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/second_task_firm_frequency.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/second_task_sorted_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/third_task_all_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/third_task_characteristics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/third_task_constellation_frequency.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/third_task_sorted_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_task.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p7ahX5jFZlBdS8XhfRIx9g6fXj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.common_data_processor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fifth_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fourth_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.third_task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Egor\Desktop\study\data_engenriing\DataEngineering_Third" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fifth_task">
+    <configuration name="fifth_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataEngineering_Third" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fifth_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataEngineering_Third" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fourth_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataEngineering_Third" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fourth_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="second_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataEngineering_Third" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="third_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataEngineering_Third" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fifth_task" />
+        <item itemvalue="Python.fourth_task" />
+        <item itemvalue="Python.third_task" />
+        <item itemvalue="Python.second_task" />
+        <item itemvalue="Python.first_task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e68324c-a4c6-466d-b028-f12593e43b5e" name="Changes" comment="" />
+      <created>1732119686850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732119686850</updated>
+    </task>
+    <servers />
+  </component>
+</project>
